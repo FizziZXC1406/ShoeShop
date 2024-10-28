@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectFinalExam", "ProjectFinalExam\ProjectFinalExam.csproj", "{EEC2473F-1957-47CC-B555-F8BD1AD45CFA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Fizzi Shoe Shop", "..\ProjectFinalExam_Setup\Fizzi Shoe Shop\Fizzi Shoe Shop.vdproj", "{0B8872EF-8C15-4F23-95F4-41FFC5EE568D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC2473F-1957-47CC-B555-F8BD1AD45CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC2473F-1957-47CC-B555-F8BD1AD45CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC2473F-1957-47CC-B555-F8BD1AD45CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC2473F-1957-47CC-B555-F8BD1AD45CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8872EF-8C15-4F23-95F4-41FFC5EE568D}.Debug|Any CPU.ActiveCfg = Debug
+		{0B8872EF-8C15-4F23-95F4-41FFC5EE568D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3352BA3A-0297-4592-A24A-B4A09D3907D9}
+	EndGlobalSection
+EndGlobal
